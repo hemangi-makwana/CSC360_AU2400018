@@ -5,7 +5,7 @@ This session centered on computational geometry, real-time visual animation in J
 
 ---
 
-## 1. Geometric Modeling: Center-Based Square Rendering
+##  Geometric Modeling: Center-Based Square Rendering
 
 When rendering shapes manually using line primitives, calculating vertex coordinates from a center reference point ($C = (x, y)$) provides precise geometric control compared to relying on default top-left offsets.
 
@@ -26,7 +26,14 @@ graph TD
     P3 --- P4["P4 (x-half, y+half)"]
     P4 --- P1
 ```
-Calculating the distance between endpoints confirms a consistent side length of $l$:$$\text{Width} = (x + \text{half}) - (x - \text{half}) = l$$$$\text{Height} = (y + \text{half}) - (y - \text{half}) = l$$To form a complete polygon, line segments must connect sequentially in a closed loop ($P_1 \to P_2 \to P_3 \to P_4 \to P_1$).
+### Side Verification
+Calculating the distance between endpoints confirms a consistent side length of $l$:
+
+$$\text{Width} = (x + \text{half}) - (x - \text{half}) = l$$
+
+$$\text{Height} = (y + \text{half}) - (y - \text{half}) = l$$
+
+To form a complete polygon, line segments must connect sequentially in a closed loop ($P_1 \to P_2 \to P_3 \to P_4 \to P_1$).
 
 ## Java GUI Ecosystem:
 
