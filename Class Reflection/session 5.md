@@ -26,3 +26,9 @@
 * The main takeaway from this class was that understanding **why each line of code is written** is more useful than simply memorizing the program.
 * Overall, this class made Java Graphics, inheritance, objects, and methods easier for me to understand and apply in future programs.
 
+-----------------------------------------------------------------------------
+
+## Conclusion
+
+Overall, this class gave me a clearer understanding of how Java Graphics works behind the scenes. I was able to connect concepts like objects, inheritance, methods, and drawing instead of seeing them as separate pieces of code. Creating a simple square showed me how these concepts can come together to produce a visible result. The class also helped me realize that understanding the logic behind a program makes it much easier to write and modify code independently.
+
