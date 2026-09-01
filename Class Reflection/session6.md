@@ -17,17 +17,18 @@ One of the areas studied was Computer Graphics in which we explored how simple s
 
 The discussion on trees proved interesting too, as a tree in computer science doesn't necessarily have to be a tree. It is a representation of information in a hierarchical manner. The concept of having one or more children as a parent helped me to understand that among elements, relationships can be represented.
 
-### Maven and Java Projects
-
-I also learned about Maven that I was not very familiar with. I learned that Maven is a tool used to manage a Java project and automate a few tasks that are normally done when building a Java project. The pom.xml file is crucial as it carries information about the project and the library/dependencies required by the project.
-
-An additional thing I learned is that there is a difference between the files we write which are the sources and the files created during the build. For instance, Java code is compiled into .class files and written in .java files. A lot of the maven files generated are kept inside the target folder. Knowing this helped me to be less confused by the structure of a java project.
 
 ### GUI and Accessibility
 
 GUI development using Java Swing was another topic studied. We studied components like buttons, panels and lists, and I realized that these components were used to make an interface on which users can interact with a program.
 
 One of the things we talked about was accessibility, and I thought about GUI design from the user's perspective. A program should be good in appearance, have the correct functionality, and be usable by users with differing needs. Assistive technologies can help users who employ them read and comprehend digital content, and features like alternative text improve their readability.
+
+### Maven and Java Projects
+
+I also learned about Maven that I was not very familiar with. I learned that Maven is a tool used to manage a Java project and automate a few tasks that are normally done when building a Java project. The pom.xml file is crucial as it carries information about the project and the library/dependencies required by the project.
+
+An additional thing I learned is that there is a difference between the files we write which are the sources and the files created during the build. For instance, Java code is compiled into .class files and written in .java files. A lot of the maven files generated are kept inside the target folder. Knowing this helped me to be less confused by the structure of a java project.
 
 ### Processes and Threads
 
@@ -43,4 +44,4 @@ The GUI section got me to understand that programming is also about making somet
 
 I gained an understanding of various aspects of Java development, including coding and compilation, interface design, and program execution.
 
-O
+
