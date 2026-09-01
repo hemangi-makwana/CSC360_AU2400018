@@ -1,8 +1,5 @@
 ##   Class reflection
 
-
-# Reflection
-
 ## Main Topics
 
 * Basics of Computer Graphics and Drawing Shapes
