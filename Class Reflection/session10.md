@@ -11,28 +11,29 @@
 
 1. Discussion of Remaining Projects and Course Outline
 
-We discussed the remaining projects and went through the course outline. 
+We discussed the remaining projects and course outline.
 
 2. Chat Box and Dialogue Box
 
-I learned about chat boxes and dialogue boxes and how they are used in applications to communicate with the user. Dialogue boxes are used primarily to request input from the user, to make a choice, or to draw the user's attention to an important message from the program.
+I learned what are chat boxes and dialogue boxes and their applications in apps to communicate with the user. Dialogue boxes are mainly used to get information from the user, make them choose an option, or get their attention to some message from the program.
 
 3. Slider
 
-I learned that a slider is a type of graphical tool for the user to select a value from a certain range by dragging it. It could be used to specify a volume, brightness, speed or a price range, for example. Other alternatives that were considered were using a spinner or text field.
+I learned that a slider is a graphical control used to allow the user to select a value on a scale by moving it with the mouse or finger. For instance, it can be used to select a value, a price range, a volume, or brightness. Other controls that can be used instead of sliders include a spinner or a text field.
 
 4. Grid Layout
 
-I discovered that Grid Layout helps to organize various components on the grid in rows and columns. It can make the interface more organized and place the buttons, text fields and other components in an appropriate structure.
+I discovered that the Grid Layout helps to arrange different components in rows and columns to form grids with the application of layout managers. It can also help to make the interface more organized by arranging the buttons, fields, and other components in a certain pattern.
 
 5. Checkbox and Radio Buttons
+   
+I knew the differences between a check box and radio buttons, where the check box allows the user to make multiple selections, whereas radio buttons allow the user to make a single selection from a given set of options.
 
-I knew the difference between the check box and radio buttons. A checkbox that lets the user check several things, while a radio button is typically used when the user must choose only one option from a set of options.
+7. Events and Graphics
 
-6. Events and Graphics
-
-I got to know how events are associated with graphics in a graphical user interface. Events are things which happen like click, drag, select, etc., and graphics are what we see on the screen. The graphical interface is made interactive by events.
+I learned about the events and graphics in a graphical user interface. Events are activities such as clicking, dragging, and selecting, while graphics are the images that appear on the screen. The events make graphics in the application come to life.
 
 ---
 
-I learned in this class about the various GUI components and how to use them to create a user friendly and interactive application. I knew what a dialog box, a slider, a grid layout, a checkbox and a radio button were used for. I also gained a better understanding of how user actions may interact with the graphics when discussing events and graphics. We also spoke about the other projects and course outline.
+
+I learned in this class about the components of a GUI and how to implement them in applications to make them user-friendly and interactive. I knew what a dialog box, slider, grid layout, checkbox, and radio button are used for. Additionally, I gained more knowledge about how events can make graphics in applications come to life, such as by clicking on them. We also went through the remaining projects and course outline.
