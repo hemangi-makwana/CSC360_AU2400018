@@ -1,0 +1,57 @@
+## Class Reflection
+
+## Progress Made in This Session
+
+The emphasis for today's session was getting the application up and running from the rudimentary project configuration to its implementation. We designed splash screen and main notes screen and began linking to the various sections of the program.
+
+More functionality was added to the splash screen. To give the user an idea of what the application was doing as it launched, we created a progress bar as well as added some loading messages, such as the “Loading saved notes...” message. We also implemented the last-opened-time feature and added a close button that could be used while the application was loading.
+
+## Main Application Development
+
+After completing the splash screen, we started creating the main application screen using FXML. A text box was included to enable users to enter their notes.
+
+The main functionality of saving notes was then implemented. We also worked on loading the previously saved notes when the application was opened again. That was very helpful as the user would not lose his/her previous work after closing the application.
+
+## Handling Unsaved Changes
+
+One of the other key features we were tackling was unsaved changes detection. The application could detect if the user had made changes to a note that they had not saved. A warning could then be displayed before the application is closed in order to avoid the loss of the user's work.
+
+This gave me the idea that an application should not only cater for the normal usage flow but also if an unanticipated event like closing by accident occurred.
+
+Using them to connect the Application Parts.Utilizing them to join the Application Parts.
+
+In this session, we linked the splash screen to the main application screen in such a way that the application would be loaded to the actual notes screen.
+
+We were also able to link the FXML components to the Java controller and application logic. This helped me to appreciate how the interface which I had created in FXML was related to the java code which makes the interface functional.
+
+## Testing and Improvements
+
+We have tested the app numerous times, from the splash screen to the main notes screen. While testing, we noticed areas that needed corrections and made adjustments to improve the overall layout and appearance.
+
+This was helpful as some features were tested singly and had to be retested when they were integrated into the full application.
+
+## What I Learned
+
+In this session, I learned about the different features that can be integrated to make a working application. I came to understand that there are lots of little components that must be linked to the Java code behind the program, such as the interface, buttons, text area, saving system, loading system and warnings.
+
+I also learned to understand the importance of testing after implementing multiple features as there are small issues that might become apparent when different components of the application interact with each other.
+
+## Challenges During Development
+
+The biggest problem was ensuring that all the features performed in a harmonious manner. The implementation of the splash screen and the main screen, and the binding of the FXML components to the controller was a careful task.
+
+Rather than that, thinking about different scenarios where users might interact with the application was required when handling saved notes and detecting unsaved changes.
+
+## Reflection
+
+This session was more of a “real” development session, rather than just preparing the structure as in the previous session. Now, we could begin to see the app working as a fully fledged notes app.
+
+The repeated testing did reveal to me another aspect of development that is not a one-time only. Once we had implemented a feature, we had to run it and identify any problems to make corrections, and then test again. In general, this session made me understand the relationship among the various JavaFX concepts, which then makes a functional application.
+
+## Key Takeaways
+
+1. A splash screen can have graphics as well as useful loading functionality.
+2. Correct linking between FXML components, controllers and Java code.
+3. The ability to save and load data lets users work with notes they create in the past.
+4. Unsaved-change warning: Reduces accidental loss of user work. 
+5. Testing the complete application flow is important after combining multiple features.
